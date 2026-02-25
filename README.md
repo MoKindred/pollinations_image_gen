@@ -29,4 +29,4 @@ Generated images are saved to the **same folder** where the `.py` file is locate
 ```
 pollinations_{model}_{shortened_prompt}.png
 ```
-- Example: `pollinations_zimage_a_small_white_cat.png`
+- Example: `pollinations_zimage_a_small_white_cat.png` 
