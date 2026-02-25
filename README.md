@@ -14,7 +14,7 @@ pip install requests
    - Then, enter your generation model (e.g., `zimage`) → press Enter.
    - Choose option `1` to enter a prompt (e.g., `a small cat`) → the program will generate and save the image automatically.
    - After generation, the program will not exit—you can enter new prompts repeatedly or choose `3` to exit.
-- API get from`https://enter.pollinations.ai/` 
+- API get from`https://enter.pollinations.ai/`
 #### 3. Core URL Rule (Important)
 The program strictly follows this URL format to call Pollinations AI API:
 ```
